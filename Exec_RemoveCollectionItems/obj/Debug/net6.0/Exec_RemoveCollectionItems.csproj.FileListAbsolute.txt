@@ -1,0 +1,15 @@
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/bin/Debug/net6.0/Exec_RemoveCollectionItems
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/bin/Debug/net6.0/Exec_RemoveCollectionItems.deps.json
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/bin/Debug/net6.0/Exec_RemoveCollectionItems.runtimeconfig.json
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/bin/Debug/net6.0/Exec_RemoveCollectionItems.dll
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/bin/Debug/net6.0/Exec_RemoveCollectionItems.pdb
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/Exec_RemoveCollectionItems.csproj.AssemblyReference.cache
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/Exec_RemoveCollectionItems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/Exec_RemoveCollectionItems.AssemblyInfoInputs.cache
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/Exec_RemoveCollectionItems.AssemblyInfo.cs
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/Exec_RemoveCollectionItems.csproj.CoreCompileInputs.cache
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/Exec_RemoveCollectionItems.dll
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/refint/Exec_RemoveCollectionItems.dll
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/Exec_RemoveCollectionItems.pdb
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/Exec_RemoveCollectionItems.genruntimeconfig.cache
+/Users/jiangyiru/Desktop/practice/Exec_RemoveCollectionItems/Exec_RemoveCollectionItems/obj/Debug/net6.0/ref/Exec_RemoveCollectionItems.dll
